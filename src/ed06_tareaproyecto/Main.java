@@ -26,6 +26,8 @@ public final class Main {
 
         empleado1.imprimirEmp();
         
+        System.out.println("\nCódigo añadido para comprobar funcionamiento del Repositorio en GitHub");
+        
     } // Fin del public static void main(String[] args)
     
 } // Fin del public class Main
